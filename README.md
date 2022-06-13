@@ -1,1 +1,2 @@
 # Python-Aufgaben
+Hier haben wir euch einige Aufgaben zusammengestellt, die den Stoff, den wir die vergangenen Wochen gelernt haben, wiederholen und festigen soll. Wir werden regelmäßig dieses Repository updaten und neue Aufgaben hinzufügen. Schaut also regelmäßig nach. Um den Code zu downloaden, klickt oben auf den grünen "Code"-Knopf. Alternativ könnt ihr auch den Link kopieren und in VS Code einfügen.
